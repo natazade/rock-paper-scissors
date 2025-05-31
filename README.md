@@ -1,2 +1,2 @@
-# roc-paper-scissors
+# rock-paper-scissors
 game app
